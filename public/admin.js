@@ -1,4 +1,3 @@
-
 let token = sessionStorage.getItem("vireon_admin_token") || "";
 let current = "overview";
 
