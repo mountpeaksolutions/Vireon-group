@@ -1,3 +1,4 @@
+
 {
   "name": "vireon-group-platform",
   "version": "1.0.0",
@@ -12,7 +13,6 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "better-sqlite3": "^11.8.1",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
@@ -20,6 +20,7 @@
     "express-rate-limit": "^7.5.0",
     "helmet": "^8.0.0",
     "jsonwebtoken": "^9.0.2",
-    "pdfkit": "^0.16.0"
+    "pdfkit": "^0.16.0",
+    "pg": "^8.13.1"
   }
 }
